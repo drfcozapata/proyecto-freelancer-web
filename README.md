@@ -1,5 +1,5 @@
 # proyecto-freelancer-web
-First exercise on Juan De la Torre Course
+First exercise on Juan De la Torre's Course
 
 This is the first and most simple exercise from that course, doing using only HTML5 and CSS3.
 It can be view at: https://francisco-webdev.netlify.app/
